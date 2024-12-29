@@ -36,6 +36,6 @@ Et voilà vous avez maintenant votre propre version de Papillon
 
 ### Vers l'infini et l'au delà...!
 
-Voilà! Vous avez une copie locale de Papillon prête à être améliorée par vos soins, pourquoi ne pas jeter un coup d'œuil à comment lancer le serveur de développement ou en apprendre un peu plus sur la structure du code?
+Voilà! Vous avez une copie locale de Papillon prête à être améliorée par vos soins, pourquoi ne pas jeter un coup d'œil à comment lancer le serveur de développement ou en apprendre un peu plus sur la structure du code?
 
 La seule limite est votre imagination!
